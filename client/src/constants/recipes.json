@@ -1,0 +1,421 @@
+[{
+	"id": 1,
+	"name": "Ramen",
+	"description": "A hearty, soothing broth and noodle dish that is sure to touch your heart.",
+	"isVeg": true,
+	"rating": 3.5,
+	"price": 239,
+	"img_url": "https://www.seriouseats.com/thmb/xm-9rxkV3ZjUEHyqNQ2uT6CO2vA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__09__20130910-crispy-pork-miso-ramen-03-2-85700bbc1b0843199c41648cb9f2c17c.jpg",
+	"size": [{
+		"isRadio": true,
+		"title": "choose cuisine",
+		"items": [{
+				"size": "Asian"
+			},
+			{
+				"size": "Indian"
+			},
+			{
+				"size": "Mediterranian"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": false,
+		"title": "choose portion",
+		"items": [{
+				"name": "1 serving"
+			},
+			{
+				"name": "2 servings"
+			},
+			{
+				"name": "3 servings"
+			},
+			{
+				"name": "4 servings"
+			},
+			{
+				"name": "5 servings"
+			}
+		]
+	}]
+}, {
+	"id": 2,
+	"name": "Margherita Pizza",
+	"description": "A classic delight loaded with extra 100% real mozzarella cheese",
+	"isVeg": true,
+	"rating": 5,
+	"price": 375,
+	"img_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pepperoni_pizza.jpg",
+	"size": [{
+		"isRadio": true,
+		"title": "choose size",
+		"items": [{
+				"size": "Regular"
+			},
+			{
+				"size": "Medium"
+			},
+			{
+				"size": "Large"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": true,
+		"title": "choose topping(s)",
+		"items": [{
+				"name": "Red Pepper"
+			},
+			{
+				"name": "Onion"
+			},
+			{
+				"name": "Grilled Mushroom"
+			},
+			{
+				"name": "Extra Cheese"
+			},
+			{
+				"name": "Black Olive"
+			}
+		]
+	}]
+}, {
+	"id": 3,
+	"name": "Macarons",
+	"description": "A macaron or French macaroon is a sweet meringue-based confection made with egg white, icing sugar, granulated sugar, almond meal, and food colouring.",
+	"isVeg": false,
+	"rating": 4.5,
+	"price": 435,
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn556Bz1uoaBX79p_s8bhyvR_gkRg3ia3cmA&usqp=CAU",
+	"size": [{
+		"isRadio": true,
+		"title": "choose size",
+		"items": [{
+				"size": "Regular"
+			},
+			{
+				"size": "Medium"
+			},
+			{
+				"size": "Large"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": false,
+		"title": "choose flavour",
+		"items": [{
+				"name": "Strawberry"
+			},
+			{
+				"name": "Orange"
+			},
+			{
+				"name": "Chocolate"
+			},
+			{
+				"name": "Mint"
+			},
+			{
+				"name": "Vanilla"
+			}
+		]
+	}]
+}, {
+	"id": 4,
+	"name": "Caesar Salad",
+	"description": "A scrumptious green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper.",
+	"isVeg": true,
+	"rating": 3.5,
+	"price": 345,
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZrWab0IWO9Jz4esNLrgTMQTWe9QDhLq1UA&usqp=CAU",
+	"size": [{
+		"isRadio": true,
+		"title": "choose size",
+		"items": [{
+				"size": "Regular"
+			},
+			{
+				"size": "Medium"
+			},
+			{
+				"size": "Large"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": false,
+		"title": "choose topping(s)",
+		"items": [{
+				"name": "Red Pepper"
+			},
+			{
+				"name": "Onion"
+			},
+			{
+				"name": "Grilled Mushroom"
+			},
+			{
+				"name": "Extra Croutons"
+			},
+			{
+				"name": "Black Olive"
+			}
+		]
+	}]
+}, {
+	"id": 5,
+	"name": "Chalupas",
+	"description": "A yummy specialty dish of south-central Mexico sure to leave you craving for more!",
+	"isVeg": true,
+	"rating": 5,
+	"price": 345,
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExFxaK5vg4Rnk4PrPaQb4ZkkF5YyjcW77NA&usqp=CAU",
+	"size": [{
+		"isRadio": true,
+		"title": "choose size",
+		"items": [{
+				"size": "Regular"
+			},
+			{
+				"size": "Medium"
+			},
+			{
+				"size": "Large"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": true,
+		"title": "choose topping(s)",
+		"items": [{
+				"name": "Jalapenos"
+			},
+			{
+				"name": "Onion"
+			},
+			{
+				"name": "Lettuce"
+			},
+			{
+				"name": "Extra Beans"
+			},
+			{
+				"name": "Extra Cheese"
+			}
+		]
+	}]
+}, {
+	"id": 6,
+	"name": "Chole Bhature",
+	"description": "One of the most tempting Indian delicacies to provide ultimate satisfaction to your taste buds.",
+	"isVeg": true,
+	"rating": 4,
+	"price": 345,
+	"img_url": "https://www.yumcurry.com/wp-content/uploads/2021/08/chole-bhature.jpg",
+	"size": [{
+		"isRadio": true,
+		"title": "choose portion",
+		"items": [{
+				"size": "1 Bhatura"
+			},
+			{
+				"size": "2 Bhaturas"
+			},
+			{
+				"size": "3 Bhaturas"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": false,
+		"title": "choose side(s)",
+		"items": [{
+				"name": "Pickle"
+			},
+			{
+				"name": "Onion"
+			},
+			{
+				"name": "Lemon slice"
+			},
+			{
+				"name": "Butter"
+			},
+			{
+				"name": "Ghee"
+			}
+		]
+	}]
+}, {
+	"id": 7,
+	"name": "Ravioli",
+	"description": "This ravioli recipe features a deliciously cheesy filling made with ricotta, mozzarella, and provolone.",
+	"isVeg": false,
+	"rating": 4.5,
+	"price": 490,
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLs1X54VIr3W0BuF3GLI6ulR-k8lVL9SsxdQ&usqp=CAU",
+	"size": [{
+		"isRadio": true,
+		"title": "choose sauce",
+		"items": [{
+				"size": "Pesto"
+			},
+			{
+				"size": "Marinara"
+			},
+			{
+				"size": "Alfredo"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": false,
+		"title": "choose topping(s)",
+		"items": [{
+				"name": "Oregano"
+			},
+			{
+				"name": "Chilli Flakes"
+			},
+			{
+				"name": "Grilled Mushroom"
+			},
+			{
+				"name": "Cheese"
+			},
+			{
+				"name": "Black Olives"
+			}
+		]
+	}]
+}, {
+	"id": 8,
+	"name": "Sweet Lassi",
+	"description": "Sweet yogurt drink made to soothe parched throats on hot summer days!",
+	"isVeg": true,
+	"rating": 4,
+	"price": 490,
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOFCcd0411Ei8HAfHwSKNr2-rdxp0at5YRA&usqp=CAU",
+	"size": [{
+		"isRadio": true,
+		"title": "choose size",
+		"items": [{
+				"size": "Small"
+			},
+			{
+				"size": "Medium"
+			},
+			{
+				"size": "Large"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": false,
+		"title": "choose topping(s)",
+		"items": [{
+				"name": "Saffron"
+			},
+			{
+				"name": "Rabdi"
+			},
+			{
+				"name": "Pistacchio"
+			},
+			{
+				"name": "Rose Water"
+			},
+			{
+				"name": "NIL"
+			}
+		]
+	}]
+}, {
+	"id": 9,
+	"name": "Dosa",
+	"description": "One of the most popular snacks in all of South India, over time it has become popular all over the country and globally too.",
+	"isVeg": true,
+	"rating": 3.5,
+	"price": "375",
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZDhI9EqHMeFy4GuqRTRtOQCEvPm2MplbmQ&usqp=CAU",
+	"size": [{
+		"isRadio": true,
+		"title": "choose size",
+		"items": [{
+				"size": "Regular"
+			},
+			{
+				"size": "Medium"
+			},
+			{
+				"size": "Large"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": false,
+		"title": "choose filling",
+		"items": [{
+				"name": "Masala"
+			},
+			{
+				"name": "Plain"
+			},
+			{
+				"name": "Paneer"
+			},
+			{
+				"name": "Cheese"
+			},
+			{
+				"name": "Red Chutney"
+			}
+		]
+	}]
+}, {
+	"id": 10,
+	"name": "Biriyani",
+	"description": "To Die For. Literally.",
+	"isVeg": false,
+	"rating": 5,
+	"price": 435,
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDXf3rHS6duT7WwzcUX-PQNSxfm1wBp-HHQ&usqp=CAU",
+	"size": [{
+		"isRadio": true,
+		"title": "choose size",
+		"items": [{
+				"size": "Regular"
+			},
+			{
+				"size": "Medium"
+			},
+			{
+				"size": "Large"
+			}
+		]
+	}],
+	"toppings": [{
+		"isRadio": true,
+		"title": "choose topping(s)",
+		"items": [{
+				"name": "Coriander"
+			},
+			{
+				"name": "Onion"
+			},
+			{
+				"name": "Red Chili"
+			},
+			{
+				"name": "Paneer"
+			},
+			{
+				"name": "NIL"
+			}
+		]
+	}]
+}]
